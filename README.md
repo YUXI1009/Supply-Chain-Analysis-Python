@@ -54,9 +54,13 @@ Conclusions:
 
 The defect rate of haircare products is higher.
 
+![image](https://github.com/YUXI1009/Supply-Chain-Analysis-Python/blob/main/newplot%20(4).png)
+
 Defect rates by transportation modes
 
 Conclusions:
 
 Road transportation results in a higher defect rate, and Air transportation has the lowest defect rate.
+
+![image](https://github.com/YUXI1009/Supply-Chain-Analysis-Python/blob/main/newplot%20(5).png)
 
