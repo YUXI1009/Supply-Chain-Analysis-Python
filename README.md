@@ -29,6 +29,7 @@ The company is using three carriers for transportation, and Carrier B helps the 
 2. SKU:
 
 Revenue generated/Stock level/Order quantity by each SKU
+![image](https://github.com/YUXI1009/Supply-Chain-Analysis-Python/blob/main/SKU.png)
              
 3. Costs:
 
