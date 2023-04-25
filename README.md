@@ -18,6 +18,8 @@ Conclusion:
 
 The company derives more revenue from skincare products, and the higher the price of skincare products, the more revenue they generate.
 
+![image](https://github.com/YUXI1009/Supply-Chain-Analysis-Python/blob/main/newplot.png)
+
 Shipping carriers vs. Revenue generated
 
 Conclusions:
